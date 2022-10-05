@@ -1,9 +1,8 @@
 ## Hello!
 
 - 👋 Hi, I’m @gad13l
-- 👀 I’m interested in Music
-- 🌱 I’m currently learning Programming
-- 💞️ I’m looking to collaborate on small development projects
+- 👀 I’m piano student
+- 🌱 I’m currently learning Motion Graphics
 - 📫 How to reach me ... gad13lstudio@gmail.com
 
 <!---
